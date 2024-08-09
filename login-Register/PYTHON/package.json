@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "compromise": "^14.14.0",
+    "stopword": "^3.0.1",
+    "summarize": "^1.5.0",
+    "text-summarization": "^1.0.0"
+  }
+}
